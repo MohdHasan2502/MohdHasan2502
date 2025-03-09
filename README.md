@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **full end to end Project**
-
-- 🌱 I’m currently learning **Node.js,Prisma**
-
+ 
 - 📫 How to reach me **mohdhasanofficialacc.02@gmail.com**
 
 - 📄 Know about my experiences [https://mohdhasan-resume.tiiny.site/](https://mohdhasan-resume.tiiny.site/)
