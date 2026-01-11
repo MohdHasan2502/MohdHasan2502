@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Hasan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate SOFTWARE DEVELOPER </h3>
 
-- 🔭 I’m currently working on **full end to end Project**
+- 🔭 I’m currently working on ** Twitter reply based Web application**
  
 - 📫 How to reach me **mohdhasanofficialacc.02@gmail.com**
 
